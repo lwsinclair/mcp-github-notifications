@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcollina-mcp-github-notifications-badge.png)](https://mseep.ai/app/mcollina-mcp-github-notifications)
+
 # GitHub Notifications MCP Server
 
 An MCP (Model Context Protocol) server that provides tools for managing GitHub notifications. This server allows AI assistants like Claude to help you manage your GitHub notifications through natural language commands.
